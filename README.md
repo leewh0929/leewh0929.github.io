@@ -31,8 +31,9 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
+    |이미지| |
+    |---|---|
     |<img src="./img/thkimg1.png" width="250" height="150">|<img src="./img/thkimg2.png" width="250" height="150">|
-    |-|-|
 - 동영상<br>
     [![](https://img.youtube.com/vi/-QiUPzPk9qA/0.jpg)](https://www.youtube.com/watch?v=-QiUPzPk9qA)
 
