@@ -33,8 +33,8 @@
 - 이미지  
     |<img src="./img/thkimg1.png">|<img src="./img/thkimg2.png">|
     |-|-|
-- 동영상
-    [![](./img/그림.png)](https://www.youtube.com/watch?v=-QiUPzPk9qA)
+- 동영상<br>
+    [![](https://img.youtube.com/vi/-QiUPzPk9qA/0.jpg)](https://www.youtube.com/watch?v=-QiUPzPk9qA)
 
 <br><br>
 
