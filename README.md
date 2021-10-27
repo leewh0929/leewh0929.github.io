@@ -463,7 +463,7 @@
 ---
 ## 컨트롤러 이벤트에 대한 흐름도 <a name = '키보드이벤트'></a>
 
-<img src="./img/inputEvent.png">
+<img src="./img/InputEvent.png">
 
 
 ---
