@@ -517,7 +517,7 @@
 
 동영상 : <br>
 VR 오른쪽 눈 기준 영상
-<iframe width="640" height="360" src="https://youtu.be/btsURk5aGzY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/btsURk5aGzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 3주차 <a name = '3day'></a>
 
@@ -546,7 +546,7 @@ VR 오른쪽 눈 기준 영상
 
 동영상 : <br>
 VR 오른쪽 눈 기준 영상
-<iframe width="640" height="360" src="https://youtu.be/aTEdY4n4aLs" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTEdY4n4aLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 4주차 <a name = '4day'></a>
 
