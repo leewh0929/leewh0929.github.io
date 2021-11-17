@@ -585,7 +585,7 @@ VR 오른쪽 눈 기준 영상
 >4. 총기의 디자인을 만든다. (0%)
 
 동영상 : <br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=b92uHv5JzBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b92uHv5JzBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 5주차 <a name = '5day'></a>
 
